@@ -12,7 +12,7 @@ endif()
 project ("OneLoneCoder_Tetris")
 
 # Add source to this project's executable.
-add_executable (OneLoneCoder_Tetris "OneLoneCoder_Tetris.cpp" "OneLoneCoder_Tetris.h")
+add_executable (OneLoneCoder_Tetris "OneLoneCoder_Tetris.cpp" )
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET OneLoneCoder_Tetris PROPERTY CXX_STANDARD 14)
