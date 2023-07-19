@@ -1,11 +1,6 @@
-# OneLoneCoder_Tetris
-
-This repository contains cpp files from Javidx9's repository: https://github.com/OneLoneCoder/Javidx9
-
-
 # License (OLC-3)
 
-Copyright 2018, 2019, 2020, 2021, 2022 OneLoneCoder.com
+Copyright 2018-2022 OneLoneCoder.com
 
 Redistribution and use in source and binary forms, with or without 
 modification, are permitted provided that the following conditions 
